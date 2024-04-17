@@ -1,47 +1,25 @@
+Project Name
+Ecommerce Website for My Shop
 
-# To-Do-List
+Description:
+This is an ecommerce website that I created for my shop using HTML and CSS. The website allows customers to browse and purchase products online. It has a clean and modern design that is easy to navigate.
 
-## A Simple To - Do Website!
+Technologies Used:
+HTML
+CSS
+Getting Started
+To get started with this project, simply visit the website using the link provided below:
 
-# To Do List
+https://subhashshop.netlify.app/
 
+Usage:
+Once you visit the website, you can browse through the products and add them to your cart. You can also create an account to save your shipping and payment information for future purchases.
 
-### *Features*:
+Contributions:
+At this time, I am not accepting contributions to this project. However, if you have any suggestions or feedback, please feel free to contact me.
 
-* User-friendly
-* Local Storage Supported
-* Displays current Date and Time
-* Responsive, on all devices
-* Themes: Users can choose among different themes.
+Credits:
+I would like to give credit to the Easy Tutorials YouTube channel for providing the tutorial that I used to create this website. Without their help, I would not have been able to create this project.
+..
 
-### *Features to be added*:
-
-* SubTasks: Adding subtasks to the enlisted tasks, could be an option.
-* Neumorphic Interface: For the to-do's so, it looks more appealing, Can use SASS (.scss file)
-* ScratchPad: Adding an option of a Scratch pad and it can be locally saved.
-* Login Features (use APIs) & Database: So the website can be opened on any device, users can log in, and the To-Dos can be viewed anywhere, anytime.
-* Reminder/Alerts: Sending automated mails once logged in, and due date/time set.
-
-# *References*
-
-* For Fonts: [Google Fonts](https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap)
-* For Basic Icons (like Trash and Check buttons): [font-awesome](https://fontawesome.com)
-* For Favicon: [icons8](https://icons8.com/icons/)
-* For Color Coordination: [w3schools](https://www.w3schools.com/colors/colors_mixer.asp?colorbottom=000000&colortop=FFFFFF)
-* For JavaScript (Tutorial): [The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
-* For help with CSS: [CSS Tricks](https://css-tricks.com/)
-* For more CSS effects: [text-effects](https://speckyboy.com/underline-text-effects-css/)
-* For Type Writing effects: [Type-effects](https://usefulangle.com/post/85/css-typewriter-animation)
-* For Local Storage: [Web Dev Simplified Blog](https://blog.webdevsimplified.com/2020-08/cookies-localStorage-sessionStorage/)
-
-
-## *WEBSITE DEMO*
-
-![Screenshot (771)](https://user-images.githubusercontent.com/61280281/99399713-0844b900-290c-11eb-8d7c-1199319b4a9e.png)
-
-![Screenshot (772)](https://user-images.githubusercontent.com/61280281/99399731-0da20380-290c-11eb-8a59-e0a2e5f9b19f.png)
-
-![Screenshot (773)](https://user-images.githubusercontent.com/61280281/99399728-0d096d00-290c-11eb-9ee5-59cc8358676c.png)
-
-![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
-
+![screencapture-subhashshop-netlify-app-2023-06-15-16_13_34 (1)](https://github.com/ShubhamChoudharyShubh/subhashshop/assets/96586771/dd85e74b-eeef-45f2-a17e-0c5380539727)
