@@ -1,0 +1,45 @@
+.container{
+    padding: 4rem 0;
+    color: black;
+    background-color: rgba(0, 0, 0, 0.1);
+    margin: 0 !important;
+}
+.heading{
+    text-align: center;
+}
+.image{
+    border-radius: 100%;
+    width: 16rem;
+    padding: 1.75rem 0 0 0;
+}
+.img{
+    margin: 0rem !important;
+}
+.details{
+    margin: 4rem 0rem 2rem 0rem !important;
+    font-size: 20px;
+    line-height: 2rem;
+    text-align: left;
+}
+.details a {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.5) !important;
+  }
+  
+  .details a:hover {
+    color: red !important;
+  }
+  
+
+   @media (max-width: 960px) {
+    .details {
+      margin: 0rem 1rem !important;
+      text-align: center;
+      font-size: 17px;
+    }
+    .container {
+      text-align: center;
+      justify-content: center;
+      margin: 0 !important;
+    }
+  } 

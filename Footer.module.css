@@ -1,0 +1,35 @@
+.container {
+    text-align: center;
+    background-color:#FF4c68;
+    margin: 0;
+  }
+
+  #contact{
+    margin: 0% !important;
+  }
+  
+  .icons {
+    margin: 10px;
+    width: 40px;
+    padding-bottom: 10px;
+    
+  }
+  
+  a {
+    text-decoration: none !important;
+    color: rgba(255, 255, 255, 0.801) !important;
+  }
+  
+  a:hover {
+    color: rgba(0,0,0,0.8) !important;
+  }
+  
+  .parent {
+    padding: 20px;
+  }
+  
+  .details {
+    margin: 5px;
+    padding-bottom: 5px;
+   
+  }

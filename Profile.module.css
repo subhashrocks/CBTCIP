@@ -1,0 +1,43 @@
+.profileContainer {
+  padding: 10px 120px;
+  text-align: center;
+  background-image: url(https://images.unsplash.com/photo-1604223190546-a43e4c7f29d7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80); 
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+ .profileParent div {
+  font-size: 40px;
+}
+
+.butt{
+  color:#ff4c68 !important;
+}
+
+.text {
+  font-size: 20px;
+}
+ @media (max-width: 800px) {
+  .profileContainer {
+    padding: 20px 20px;
+  }
+}
+
+@media (max-width: 600px) {
+  .profileParent div {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 440px) {
+  .profileParent div {
+    font-size: 23px;
+  }
+  .txt {
+    font-size: 15px;
+  }
+} 
+  

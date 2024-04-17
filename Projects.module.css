@@ -1,0 +1,27 @@
+.container{
+    padding: 2% 9%;
+    background-color: rgba(0,0,0,0.1) !important;
+}
+
+.heading {
+ text-align: center;
+}
+.projectHeading{
+    height: 60px;
+}
+.project{
+   
+    margin: 2rem 3rem !important;
+}
+
+.iconContainer{
+    text-align: center;
+    
+}
+.icon{
+    padding: 5px 5px 0px 5px;
+    color: #ff4c68 !important;
+}
+ .icon:hover{
+     color:rgba(0,0,0,0.8);
+ }
